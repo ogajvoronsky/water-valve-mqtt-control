@@ -1,0 +1,24 @@
+{
+  "device": {
+    "id": "remeniv_water_relay"
+  },
+  "mqtt": {
+    "enable": true,
+    "server": "mqtt.%#%#%#%#%@%$@#",
+    "user": "-",
+    "pass": "-"
+  },
+  "aws": {
+    "thing_name": "remeniv_water_relay"
+  },
+  "wifi": {
+    "ap": {
+      "enable": false
+    },
+    "sta": {
+      "enable": true,
+      "ssid": "GIOT",
+      "pass": "-"
+    }
+  }
+}

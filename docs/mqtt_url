@@ -1,0 +1,3 @@
+Get/put code from ESP8266 over MQTT:
+
+   mos --port mqtt://user:pass@mqtt._*****/remeniv_water_relay get init.js
